@@ -52,7 +52,7 @@
 
 @media screen and (min-resolution: 192dpi) and (max-width: 767px), screen and (min-resolution: 2dppx) and (max-width: 767px), screen and (min-device-pixel-ratio: 2) and (max-width: 767px) {
     .content-hero-background {
-background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(./images/mobile-fon-2.jpg);
+background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/mobile-fon-2.jpg);
 background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
@@ -64,7 +64,7 @@ margin-right: auto; }
 /*tablet*/
 @media screen and (min-width: 768px) and (max-width: 1157px) {
 .content-hero-background {
-        background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(./images/tablet-fon.jpg);
+        background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/tablet-fon.jpg);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -113,7 +113,7 @@ margin-right: auto; }
 
 @media screen and (min-resolution: 192dpi) and (min-width: 768px) and (max-width: 1157px), screen and (min-resolution: 2dppx) and (min-width: 768px) and (max-width: 1157px), screen and (min-device-pixel-ratio: 2) and (min-width: 768px) and (max-width: 1157px){
     .content-hero-background {
-        background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(./images/tablet-fon-2.jpg);
+        background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/tablet-fon-2.jpg);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -164,7 +164,7 @@ margin-right: auto; }
     .content-hero-background {
         background-image:
             linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-            url(./images/background.jpg);
+            url(../images/background.jpg);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -178,7 +178,7 @@ margin-right: auto; }
 .content-hero-background {
         background-image:
             linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-            url(./images/background-2.jpg);
+            url(../images/background-2.jpg);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
