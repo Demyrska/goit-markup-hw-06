@@ -64,7 +64,7 @@ margin-right: auto; }
 }
 
 /*tablet*/
-@media screen and (min-width: 768px) and (max-width: 1157px) {
+@media screen and (min-width: 768px) {
 .content-hero-background {
         background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), 
         url(../../images/tablet-fon.jpg);
@@ -114,7 +114,8 @@ margin-right: auto; }
 }
 }
 
-@media screen and (min-resolution: 192dpi) and (min-width: 768px) and (max-width: 1157px), screen and (min-resolution: 2dppx) and (min-width: 768px) and (max-width: 1157px), screen and (min-device-pixel-ratio: 2) and (min-width: 768px) and (max-width: 1157px){
+@media screen and (min-resolution: 192dpi) and (min-width: 768px), screen and (min-resolution: 2dppx) and (min-width: 768px), 
+screen and (min-device-pixel-ratio: 2) and (min-width: 768px) {
     .content-hero-background {
         background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
         url(../../images/tablet-fon-2.jpg);
