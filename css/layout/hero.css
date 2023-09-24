@@ -2,7 +2,7 @@
 @media screen and (max-width: 767px) {
 .content-hero-background {
         background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-        url(/images/mobile-fon.jpg);
+        url(../../images/mobile-fon.jpg);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
