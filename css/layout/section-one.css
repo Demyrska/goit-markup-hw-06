@@ -20,10 +20,16 @@
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        margin-bottom: 72px;
 }
 .advantages {
     width: 288px;}
+
+.advantages-list {
+    margin-bottom: 72px;
+}
+.advantages-list:last-child {
+    margin-bottom: 0;
+}
 }
 
 

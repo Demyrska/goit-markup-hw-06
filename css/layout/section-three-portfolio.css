@@ -8,6 +8,9 @@
 .section-portfolio-three-back:not(:last-child) {
     margin-bottom: 48px;
 }
+.section-portfolio-three-back {
+    width: 288px;
+}
 }
 
 
@@ -26,6 +29,9 @@
         width: calc((100% - 24px) / 2);
         transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
     }
+/* .section-portfolio-three-back {
+    width: 360px;
+} */
 }
 
 

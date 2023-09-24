@@ -3,13 +3,13 @@
     background-color: #F4F4FD;
 }
 
-.section-team-three-back {
+/* .section-team-three-back {
     display: flex;
     width: 264px;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    row-gap: 32px;}
+    row-gap: 32px;} */
 
 .team-main {
     color: #2E2F42;
@@ -84,6 +84,7 @@
 .section-team-three-back {
     margin-left: auto;
     margin-right: auto;
+    width: 264px;
 }
 }
 
@@ -118,7 +119,6 @@ justify-content: center;
 @media screen and (min-width: 1158px) {
 .team-back {
         background-color: #F4F4FD;
-        padding: 188px 0;
     }
 
     .team-page-container {
